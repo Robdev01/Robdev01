@@ -2,7 +2,7 @@
 
 👀 Estou interessado em aprender cada dia mais, estou apaixonado pela área de TI em especifico programação.
 
-🌱 Atualmente estou aprendendo um pouco sobre BACK-END, liguagens como Python, JavaScript e c#.
+🌱 Atualmente estou aprendendo um pouco sobre BACK-END, liguagens como Python, JavaScript e  C#.
 
 💞️ Procuro colaborar em projetos sendo eles pequeno ou robusto.
 
