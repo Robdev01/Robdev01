@@ -10,7 +10,7 @@
 
 LinkedIn: https://www.linkedin.com/in/robson-calheira-67b813300/
 
-Email - robsondev@outlook.com
+Email - robsondev01@outlook.com
 
 
 ⚡ Curiosidade:Cafezinho, leitura e musculação.
