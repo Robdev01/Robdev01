@@ -1,8 +1,21 @@
-👋 Olá, sou Robson Calheira
+## Olá, sou Robson Calheira
 
-👀 Estou interessado em aprender cada dia mais, estou apaixonado pela área de TI em especifico programação.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Analise e desenvolvimento de sistemas na Estacio.
+- 💼 Em busca de uma oportunidade de trabalhando como Desenvolvedor Back-End || Desevolvedor FullStack.
+- 🌱 Aprendendo mais sobre Python, C#, Node.js, JavaScript, Banco de dados, CSS e HTML.
 
-🌱 Atualmente estou aprendendo um pouco sobre BACK-END, liguagens como Python, JavaScript e  C#.
+## Minhas Skills
+
+**Aplicações e dados**
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+
+![Python](https://commons.wikimedia.org/wiki/File:Python-logo.png)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 💞️ Procuro colaborar em projetos sendo eles pequeno ou robusto.
 
