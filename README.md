@@ -45,7 +45,7 @@
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-  https://camo.githubusercontent.com/dce633bdcdd1a6c2a7a1fc5ed654763286e9316afcabac27a0b6a6f928721687/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c75636173646573656e766f6c7665646f722673686f775f69636f6e733d74727565266c616e67735f636f756e743d3130266c61796f75743d636f6d70616374267468656d653d6461726b26636f756e745f707269766174653d66616c7365
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=pie)(https://github.com/Robdev01)
 </a>
 
 
