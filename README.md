@@ -54,7 +54,7 @@
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Robdev01)
 
 
-⚡ Curiosidade:Cafezinho, leitura e musculação.
+⚡ Curiosidade:Cafezinho, leitura, joguinho e musculação.
 
 
 <!---
