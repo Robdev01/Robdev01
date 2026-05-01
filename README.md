@@ -46,15 +46,6 @@ Atualmente evoluindo sistemas em Python e explorando melhorias de concorrência 
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-  <a href="https://github.com/Robdev01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robdev01&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-calheira)
