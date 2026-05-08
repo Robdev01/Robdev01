@@ -7,14 +7,13 @@ Desenvolvedor Backend com experiência em sistemas de produção, focado na cons
 
 Atuo com desenvolvimento de robôs de monitoramento e análise de dados em tempo real, lidando com problemas reais de escalabilidade e eficiência.
 
-Atualmente evoluindo sistemas em Python e explorando melhorias de concorrência e performance com Go e Java.
 </p>
 
 ---
 
 ### 🚀 O que eu faço hoje
 
-- Desenvolvimento de APIs REST com Python (Flask)
+- Desenvolvimento de APIs REST 
 - Criação de robôs de monitoramento
 - Automação de processos e análise de dados
 - Integração com banco de dados (MySQL)
@@ -26,7 +25,6 @@ Atualmente evoluindo sistemas em Python e explorando melhorias de concorrência 
 
 - Performance e escalabilidade
 - Arquitetura backend
-- Concorrência (Go)
 - Evolução para sistemas mais eficientes
 
 ---
