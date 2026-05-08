@@ -46,6 +46,18 @@ Atualmente evoluindo sistemas em Python e explorando melhorias de concorrência 
 
 ---
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    height="200" 
+    src="https://streak-stats.demolab.com?user=Robdev01&theme=tokyonight&locale=pt-br" 
+    alt="Estatísticas de contribuições do GitHub"
+  />
+</p>
+
+---
+
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-calheira)
