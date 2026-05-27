@@ -51,6 +51,15 @@ Atuo com desenvolvimento de robôs de monitoramento e análise de dados em tempo
 
 ---
 
+### 👾 My GitHub Contribution Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Robdev01/Robdev01/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-calheira)
